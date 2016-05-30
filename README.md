@@ -1,2 +1,2 @@
-# opened-setup
-Scripts for initializing an OpenDJ server
+# alanmiller
+My gh-pages site
